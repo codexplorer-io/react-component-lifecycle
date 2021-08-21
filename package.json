@@ -1,0 +1,11 @@
+{
+  "name": "@codexporer.io/react-component-lifecycle",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "*",
+    "react-magnetic-di": "*",
+    "@codexporer.io/react-hooks": "*",
+    "@codexporer.io/react-test-utils": "*"
+  }
+}
